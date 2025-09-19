@@ -18,6 +18,7 @@
 
 #include "dataset.h"
 #include "split.cuh"
+#include "bins.cuh"
 
 #include <cub/cub.cuh>
 
